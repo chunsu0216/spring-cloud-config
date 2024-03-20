@@ -1,0 +1,6 @@
+spring:
+  datasource:
+  driver-class-name: org.mariadb.jdbc.Driver
+  url: jdbc:mariadb://localhost:3306/pg
+  username: root
+  password: '{cipher}9e98a918356b656aba359fa16535cbc2c0c7b2ca9a596c8835842b8bceecf723'
